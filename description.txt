@@ -1,0 +1,13 @@
+A mishmash of various ideas I came up with
+
+Features: 
+1 Weapon type (13 variations)
+1 Projectile
+2 Accessories
+2 Enemies
+1 Microbiome
+2 Music Boxes (music by me)
+2 Weird and Hard-to-find changes to vanilla npcs
+
+**Netcode is hard**
+**If an item doesn't work in multiplayer, just drop and pick it back up. That usually works**

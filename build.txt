@@ -1,0 +1,3 @@
+displayName = Wow, that's like 25 oranges or something
+author = Wow25
+version = 1.0
